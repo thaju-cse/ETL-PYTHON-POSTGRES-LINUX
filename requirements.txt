@@ -1,0 +1,8 @@
+pandas
+json
+requests
+datetime
+pathlib
+sys
+sqlalchemy
+
