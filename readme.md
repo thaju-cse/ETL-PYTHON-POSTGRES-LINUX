@@ -10,7 +10,7 @@ entry into a table located in postgresql database.
 ## Overview
 This project demonstrates API based data extracting in JSON file format, basic transformations 
 like removing white spaces, upper case to lower case then stored in a csv file finally stored 
-in a database and everuthing done by using python.
+in a database and everything done by using python.
 
 ---
 
